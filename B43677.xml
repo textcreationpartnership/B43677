@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A copy of the late Lord Chief Justice Pollexfen's opinion, which he gave Mr. Richard Murray, in the year 1686 when he opposed the reading of the Scotch decree in the Court of Chancery in Ireland as being no evidence to be admitted.</title>
+            <author>Pollexfen, Henry, Sir, 1632?-1691.</author>
+         </titleStmt>
+         <extent>Approx. 5KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B43677</idno><idno type="EEBO-CITATION">489265090</idno>
+  <idno type="VID">208674</idno>
+  <idno type="EEBO-PROQUEST">2240883352</idno>
+  
+            <idno type="OCLC"> 489265090</idno>
+            <idno type="OCLC">ocn 489265090</idno>
+            <idno type="STC">Wing P2777bA</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B43677)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 208674)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2956:19)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A copy of the late Lord Chief Justice Pollexfen's opinion, which he gave Mr. Richard Murray, in the year 1686 when he opposed the reading of the Scotch decree in the Court of Chancery in Ireland as being no evidence to be admitted.</title>
+                  <author>Pollexfen, Henry, Sir, 1632?-1691.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1691?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Signed and dated: Hen. Pollexfen. Junij 5th 1686.</note>
+                  <note>Date of publication suggested by Wing (2nd ed.).</note>
+                  <note>Docket title same as caption title.</note>
+                  <note>Reproduction of original in: Beinecke Rare Book and Manuscript Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Murray, Richard.</term>
+               <term type="topical_term">Jurisdiction --  Ireland --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  Politics and government --  1689-1702 --  Early works to 1800.</term>
+               <term type="genre_form">Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:208674:1"/>
+            <pb facs="tcp:208674:2"/>
+            <head>A Copy of the Late Lord Chief Justice <hi>Pollexfen</hi>'s Opinion, which he gave Mr. <hi>Richard Murray,</hi> in the Year <hi>1686,</hi> when he opposed the Reading of the Scotch Decree in the Court of <hi>Chancery</hi> in <hi>Ireland,</hi> as being no Evidence to be ad<g ref="char:EOLhyphen"/>mitted.</head>
+            <p>TITLES to Lands in <hi>Ireland,</hi> ought to be tryed by the Laws of <hi>Ireland,</hi> and not by the Civil-Law, or Laws of <hi>Scotland,</hi> or any other Countrey, and to admit the Judicature of any other Kingdom to have a Right to try Titles to Lands in <hi>Ireland,</hi> is to the Disinherison of the King and his Crown of <hi>Ireland,</hi> and of the Subjects of <hi>Ireland</hi> of their Birth-right.</p>
+            <p>Though Crimes committed in <hi>Scotland,</hi> or other Foreign Kingdom, should not be punishable by the Laws of <hi>England</hi> or <hi>Ireland,</hi> though by a Subject of <hi>England</hi> or <hi>Ireland</hi> committed; but be punishable in <hi>Scotland,</hi> or such Foreign Kingdom, by the Laws of that Kingdom, if a Sentence or Judg<g ref="char:EOLhyphen"/>ment be given in such Cause in any Foreign Kingdom, that Sentence, except in Maritime Cases, shall have no Effect in <hi>England</hi> or <hi>Ireland;</hi> it shall not attaint the Blood, or cause any Forfeiture or Disability, suppose it be for Murther, or Felony, or the like.</p>
+            <p>The Laws of <hi>England</hi> and <hi>Ireland</hi> admit of divers sorts of Tryals in particular Cases, as by Certificate of <hi>Marshall,</hi> Mayor of <hi>Burdeaux,</hi> and many other in particular Cases, mentioned in Abbot of <hi>Strat Marchellocr, Cap. Rep.</hi> 9.31, 32. but never admitted Mens Estates to be tried by Laws or Judicatures of other Countries; no Book or Case, I suppose, ever admitted such a Tryal: Therefore if this had been a Sentence or Decree in <hi>Scot<g ref="char:EOLhyphen"/>land,</hi> in a Criminal Proceeding, for Forging these Deeds there, that Sentence or Proceeding ought to have no Effect here.</p>
+            <p>If in a Tryal of Forgery, upon an Indictment or Information, a Deed be found Forged, it shall be damned, this Tryal is conclusive, and while that Verdict or Judgment stands, no other Court ought to suffer that Deed to be insisted on as a true Deed, it hath had its legal Tryal.</p>
+            <p>But this Proceeding in <hi>Scotland</hi> is not Criminal, for then there would have been some Fine or Punishment in<g ref="char:EOLhyphen"/>flicted, besides destroying the Deed, upon the Offender, none is mentioned.</p>
+            <p>There is no Case (except only whereupon Indictment or Information of Forgery) wherein any Proceeding on any Deed or Will is declared Forged, the Parties shall at Law be thereby debarred from using it.</p>
+            <p>Suppose a Deed in <hi>Chancery, Court of Request,</hi> formerly, or in the <hi>Ecclesiastical Court,</hi> or a Will concerning Lands and Goods, shall be Decreed or pronounced against, as aforesaid, the Party Entitled to any Land by such Deeds or Will, shall not thereby be debarred, but have his Tryal <hi>Per Pares,</hi> by the Law of the Land; and in such Tryal, such Decree is no Evidence; so that if as much Authority or Credit should be given to this Scottish Proceeding, as to any Proceeding in any Court, not Proceeding according to the Common Law, it can neither be a Bar, nor admitted as Legal Evidence, the Reasons are evident.</p>
+            <p>Every Country hath its Municipal Laws, Rules and Methods, but different one from another; the Subject of each Country hath their Estates and Properties by their Respective Laws; their own, not other Laws, are their Rules; to make the Laws of one Country interpose and take place in another, must break and confound the Laws and Rules of that Country. This Case, of their Law in <hi>Scotland</hi> concerning Forgery, is a sufficient In<g ref="char:EOLhyphen"/>stance, for if by the Law there, a Deed that hath not the Place where made, Witnesses in the Body of the Deed be to be taken as Forged; 'tis no Wonder, that though the Deeds in question, made according to the Laws of <hi>Ireland,</hi> be there condemned as Forged; but it is then most plain, he that hath an undoubted Title by the Law of <hi>Ireland,</hi> shall lose his <gap reason="illegible" resp="#murp" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> because his Deeds not made according to the Law of <hi>Scotland;</hi> so that I think the Sentence is to have no Effect as to Evidence, or otherwise to effect the Title to a Free-hold in <hi>Ireland.</hi>
+            </p>
+            <closer>
+               <signed>HEN. POLLEXFEN▪</signed>
+               <dateline>
+                  <date>Junij 5<seg rend="sup">o.</seg> 1686.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="text">
+            <p>SUppose a Forgery in <hi>Scotland,</hi> of a Deed for Lands in <hi>Ireland,</hi> be a Crime only punishable in <hi>Scotland,</hi> yet this Deed, if Published in <hi>Ireland,</hi> the Publishing it in <hi>Ireland</hi> is a Crime punishable by Indictment in <hi>Ire<g ref="char:EOLhyphen"/>land,</hi> and without Publishing, no use can be made of it.</p>
+            <closer>
+               <signed>H. P.</signed>
+            </closer>
+            <pb facs="tcp:208674:3"/>
+         </div>
+      </body>
+      <back>
+         <div type="half_title">
+            <pb facs="tcp:208674:3"/>
+            <p>
+               <gap reason="illegible" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Lord Chief <gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ustice <gap reason="illegible" resp="#murp" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Opinion, which he gave Mr. <hi>Murray,</hi> in the Year 1686, when he opposed the Reading of the Scotch Decree in the Court of Chancery <gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n <hi>Ireland,</hi> as being no Evidence to be <gap reason="illegible" resp="#murp" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
